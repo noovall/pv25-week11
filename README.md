@@ -2,36 +2,42 @@
 
 # Hasil Running
 
-### 🌙 `dark.png`
+App ini memiliki 2 tema, yaitu gelap dan terang
+
+### 🌙 `Dark Theme`
 
 ![dark](SS/dark.png)
 
 ---
 
-### 🌞 `light.png`
+### 🌞 `Light Theme`
 
 ![light](SS/light.png)
 
 ---
 
-### 📌 `docked.png`
+### 📌 `Docked Widget`
+docked widget pada search, yang bisa dipindah-pindah
 
 ![docked](SS/docked.png)
 
 ---
 
-### 📋 `paste.png`
+### 📋 `Paste From CLipboaard`
+Paste memudahkan untuk mengisi pada bagian nama barang
 
 ![paste](SS/paste.png)
 
 ---
 
-### 🖱️ `scroll.png`
+### 🖱️ `Scroll Area`
+Scroll area untuk menggulir app melihat item yang tidak terlihat
 
 ![scroll](SS/scroll.png)
 
 ---
 
-### 📊 `statusbar.png`
+### 📊 `Status Bar`
+Status Bar untuk menampilkan Nama dan NIM
 
 ![statusbar](SS/statusbar.png)
